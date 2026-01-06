@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Momo+Trust+Display&display=swap");
+
 :root {
     --primary: #4f46e5;
     --primary-dark: #4338ca;
@@ -15,6 +17,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+     font-family: "Momo Trust Display", sans-serif;
 }
 
 body {
